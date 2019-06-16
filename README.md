@@ -3,6 +3,14 @@ final project
 
 author: Wang Lingdong, Dai Jiacheng
 
+# Download
+
+You can download structured fer2013 dataset and our VGG19bn model here:
+
+链接：https://pan.baidu.com/s/1n5WNvj3IebnBdpaHTpmQ-Q 
+提取码：spyl 
+
+
 # Description
 ## Model Structure
 *models/* 
